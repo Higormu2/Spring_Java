@@ -135,11 +135,7 @@
 	<groupId>org.postgresql</groupId>
 	<artifactId>postgresql</artifactId>
 </dependency> 
-		<dependency>
-			<groupId>com.generation</groupId>
-			<artifactId>deliveryapi</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+	
 	</dependencies>
 
 	<build>
